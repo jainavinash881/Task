@@ -25,17 +25,23 @@ import data from '../../data.json';
     useEffect(() => {
         const selectedData = data.plans.filter((el) => el.type === 'Best Offer for you');
         setStateData(selectedData);
-        setActiveTab('Best Offer for you');
     }, [])
 
     const handleClick = () => {
         console.log("clicked on Cancel Button");
     }
     const onSelectedTab= (result) => {
-       setActiveTab('');
+        if(data.header.find((el) => el === result)){
+            setActiveTab(result);
+            console.log('true')
+        }else{
+            setActiveTab(null);
+            console.log('false');
+        }
        const selectedData = data.plans.filter((el) => el.type === result);
        setStateData(selectedData);
-       setActiveTab(selectedData.type);
+    //    setActiveTab(selectedData.type);
+
 
     }
     console.log(activeTab,"active tab parent")
