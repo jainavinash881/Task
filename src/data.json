@@ -1,0 +1,77 @@
+{
+    "plans":[
+        {
+            "price":"399",
+            "validity":"365 Days",
+            "desc":"Enjoy TRULY unlimited Local, STD & Roaming calls on any network, 1 GB data per day, 100 National SMS/day for 28 days",
+            "type":"Best Offer for you"
+        },
+        {
+            "price":"299",
+            "validity":"365 Days",
+            "desc":"Enjoy TRULY unlimited Local, STD & Roaming calls on any network, 1 GB data per day, 100 National SMS/day for 28 days",
+            "type":"Best Offer for you"
+        },
+        {
+            "price":"499",
+            "validity":"365 Days",
+            "desc":"Enjoy TRULY unlimited Local, STD & Roaming calls on any network, 1 GB data per day, 100 National SMS/day for 28 days",
+            "type":"Best Offer for you"
+        },
+        {
+            "price":"299",
+            "validity":"365 Days",
+            "desc":"Enjoy TRULY unlimited Local, STD & Roaming calls on any network, 1 GB data per day, 100 National SMS/day for 28 days",
+            "type":"Popular"
+        },
+        {
+            "price":"199",
+            "validity":"365 Days",
+            "desc":"Enjoy TRULY unlimited Local, STD & Roaming calls on any network, 1 GB data per day, 100 National SMS/day for 28 days",
+            "type":"Popular"
+        },
+        {
+            "price":"599",
+            "validity":"365 Days",
+            "desc":"Enjoy TRULY unlimited Local, STD & Roaming calls on any network, 1 GB data per day, 100 National SMS/day for 28 days",
+            "type":"Popular"
+        },
+        {
+            "price":"399",
+            "validity":"365 Days",
+            "desc":"Enjoy TRULY unlimited Local, STD & Roaming calls on any network, 1 GB data per day, 100 National SMS/day for 28 days",
+            "type":"Special Recharge"
+        },
+        {
+            "price":"399",
+            "validity":"365 Days",
+            "desc":"Enjoy TRULY unlimited Local, STD & Roaming calls on any network, 1 GB data per day, 100 National SMS/day for 28 days",
+            "type":"Special Recharge"
+        },
+        {
+            "price":"399",
+            "validity":"365 Days",
+            "desc":"Enjoy TRULY unlimited Local, STD & Roaming calls on any network, 1 GB data per day, 100 National SMS/day for 28 days",
+            "type":"Special Recharge"
+        },
+        {
+            "price":"499",
+            "validity":"365 Days",
+            "desc":"Enjoy TRULY unlimited Local, STD & Roaming calls on any network, 1 GB data per day, 100 National SMS/day for 28 days",
+            "type":"Top offers"
+        },
+        {
+            "price":"599",
+            "validity":"365 Days",
+            "desc":"Enjoy TRULY unlimited Local, STD & Roaming calls on any network, 1 GB data per day, 100 National SMS/day for 28 days",
+            "type":"Top offers"
+        },
+        {
+            "price":"699",
+            "validity":"365 Days",
+            "desc":"Enjoy TRULY unlimited Local, STD & Roaming calls on any network, 1 GB data per day, 100 National SMS/day for 28 days",
+            "type":"Top offers"
+        }
+    ],
+    "header":["Best Offer for you","Popular","Special Recharge", "Top offers"]
+}

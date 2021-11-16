@@ -1,0 +1,4 @@
+#Sun Nov 14 15:25:20 IST 2021
+base.0=/home/codemymobile/Downloads/atlantis/task/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
